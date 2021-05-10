@@ -1,6 +1,6 @@
 # Hi there, i'm Thanh Long Nguyen 👋
 
-I'm a french full-stack developer mainly focused on javascript. I'm currently at Webforce3 (a web developer bootcamp) for learning purposes, self development and internship possibilities. I'm either looking for an internship or a full-time job if the learning curve and the working environment are humanly and technically suitable.
+I'm a french full-stack developer mainly focused on javascript. I'm currently at Webforce3 (a web developer bootcamp) for learning purposes, self development and internship possibilities. I'm either looking for an internship or a full-time job if the learning curve and the working environment are humanly and technically suitable. 🏕️
 
 You can contact me on [Linkedin 🔗](https://www.linkedin.com/in/thanh-nguyen-paris/) 
 

@@ -25,7 +25,7 @@ I'm currently working on Vue3.Js and Node and i'm building small project in orde
 Build a pleasing front end project with API request | API request ,Compostion API      | ❌
 Build a CRUD Full Stack using Vue / Node / MongoDB  | REST API, Database NoSQL         | [✔️](https://vue-crud-thanh.herokuapp.com/)
 Build a Full Stack task manager MEVN                | State management, Authentication | In Progress
-Build a e-commerce website                          | GraphQL,                         | ❌
+Build a e-commerce website                          | GraphQL, PHP with Laravel              | ❌
 
 
 ### What comes after ?

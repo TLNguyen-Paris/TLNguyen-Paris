@@ -1,6 +1,6 @@
 # Hi there, i'm Thanh Long Nguyen 👋
 
-I'm a french full-stack developer mainly focused on javascript. I'm currently at Webforce3 (a web developer bootcamp) for learning purposes, self development and internship possibilities. I'm either looking for an internship or a full-time job if the learning curve and the working environment are humanly and technically suitable. 🏕️
+I'm a french full-stack developer mainly focused on javascript. I'm either looking for an internship or a full-time job if the learning curve and the working environment are humanly and technically interesting. 🏕️
 
 You can contact me on [Linkedin 🔗](https://www.linkedin.com/in/thanh-nguyen-paris/) 
 
@@ -12,21 +12,25 @@ different field of it and programming was the one that could filled my desire
 to learn and experiment. 
 
 
-## ⏯️ Which field i'm i working on ?
+## ⏯️ Which field am i working on ?
 
 I'm currently learning frontend and backend with javascript and see how far can i get with different project.
-I'm currently working on Vue3.Js and Node and i'm building small project in order to get the hang of it.
+I'm currently working on Vue3 and Node and i'm building small project in order to get the hang of it.
+The small testing stuff won't be public but i like to experiment new features.
 
-### 🗺️ The overall roadmap ?
+### 🗺️ What am i working on right now ?
 
+I was task to do a prototype of a intern web app in order to take inventory of the product related to storefront (Bulgari PARIS place vendôme)
 
-| 🏗️ Project to build                                  | 📖 What will i learn               | ♻️ Progress
---------------------------------------------------| -------------------------------- | :-----:
-Build a pleasing front end project with API request | API request ,Compostion API      | ❌
-Build a CRUD Full Stack using Vue / Node / MongoDB  | REST API, Database NoSQL         | [✔️](https://vue-crud-thanh.herokuapp.com/)
-Build a Full Stack task manager MEVN                | State management, Authentication | In Progress 
-Build a e-commerce website                          | GraphQL, PHP with Laravel              | ❌
+| 🏗️  Task                                  | Details |
+-------------------------------------------------- :-----:
+Having a login system|  Only admins can create account, no register form, Only for interns employees
+Storing product on the database  |  Having the product form to post & fetch data from inventory
+Storing Images of products  | Visual of the product
+Sending inventory tables on a google sheet | Having a paper version for the backoffice                    |
 
+Why am i doing that ?
+I'm doing it because it was a request from an employee and i took it as a challenge that could start my career as a freelance web developper.
 
 ### ⏭️ What comes after ?
 

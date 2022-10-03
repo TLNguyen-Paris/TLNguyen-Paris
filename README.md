@@ -23,11 +23,11 @@ The small testing stuff won't be public but i like to experiment new features.
 I was task to do a prototype of a intern web app in order to take inventory of the product related to storefront (Bulgari PARIS place vendôme)
 
 | 🏗️  Task                                  | Details |
--------------------------------------------------- :-----:
+-------------------------------------------------- | --- 
 Having a login system|  Only admins can create account, no register form, Only for interns employees
 Storing product on the database  |  Having the product form to post & fetch data from inventory
 Storing Images of products  | Visual of the product
-Sending inventory tables on a google sheet | Having a paper version for the backoffice                    |
+Sending inventory tables on a google sheet | Having a paper version for the backoffice  
 
 Why am i doing that ?
 I'm doing it because it was a request from an employee and i took it as a challenge that could start my career as a freelance web developper.

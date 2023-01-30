@@ -32,6 +32,11 @@ Sending inventory tables on a google sheet | Having a paper version for the back
 Why am i doing that ?
 I'm doing it because it was a request from an employee and i took it as a challenge that could start my career as a freelance web developper.
 
+### 🗺️ Why am i not posting a lot ?
+
+Most of my project are private or not on github yet, i'm planning to do a book with code some reminder wether UI or small portion of code using API.
+I'm also having fun on CodeWars trying to grind and learn algorithm.
+
 ### ⏭️ What comes after ?
 
 - 📚 Learning Typescript / Java / Python
